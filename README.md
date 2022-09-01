@@ -3,6 +3,10 @@ My open source contributions.
 
 ### Contributions
 
+- **kamranahmedse/developer-roadmap**: Update equality comparisons in JavaScript roadmap [[pull request](https://github.com/kamranahmedse/developer-roadmap/pull/1649)] :heavy_check_mark:
+- **kamranahmedse/developer-roadmap**: Update typeof operator in JavaScript roadmap [[pull request](https://github.com/kamranahmedse/developer-roadmap/pull/1650)] :heavy_check_mark:
+- **kamranahmedse/developer-roadmap**: Update callback hell in JavaScript roadmap [[pull request](https://github.com/kamranahmedse/developer-roadmap/pull/1651)] :heavy_check_mark:
+- **kamranahmedse/developer-roadmap**: Update testing in Node.js roadmap [[pull request](https://github.com/kamranahmedse/developer-roadmap/pull/1652)] :heavy_check_mark:
 - **kamranahmedse/developer-roadmap**: Update bash scripting with very useful links [[pull request](https://github.com/kamranahmedse/developer-roadmap/pull/1504)] :heavy_check_mark:
 - **mascDriver/ruuffs_bot**: Propose a custom logo for the project [[pull request](https://github.com/mascDriver/ruuffs_bot/pull/1)] :heavy_check_mark:
 - **ccuffs/cc.uffs.edu.br**: Fix faq.yml syntax [[pull request](https://github.com/ccuffs/cc.uffs.edu.br/pull/126)] :heavy_check_mark:
