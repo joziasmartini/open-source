@@ -3,6 +3,7 @@ My open source contributions.
 
 ### Contributions
 
+- **kamranahmedse/developer-roadmap**: Update this keyword in JavaScript roadmap [[pull request](https://github.com/kamranahmedse/developer-roadmap/pull/1660)] :heavy_check_mark:
 - **kamranahmedse/developer-roadmap**: Update try, catch, finally in JavaScript roadmap [[pull request](https://github.com/kamranahmedse/developer-roadmap/pull/1658)] :heavy_check_mark:
 - **kamranahmedse/developer-roadmap**: Update throw statement in JavaScript roadmap [[pull request](https://github.com/kamranahmedse/developer-roadmap/pull/1659)] :heavy_check_mark:
 - **kamranahmedse/developer-roadmap**: Update exception handling in JavaScript roadmap [[pull request](https://github.com/kamranahmedse/developer-roadmap/pull/1657)] :heavy_check_mark:
