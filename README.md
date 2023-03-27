@@ -17,3 +17,4 @@ My open source contributions.
 - **mascDriver/ruuffs_bot**: Propose a custom logo for the project [[pull request](https://github.com/mascDriver/ruuffs_bot/pull/1)] :heavy_check_mark:
 - **parro-it/awesome-micro-npm-packages**: Some article links in the readme are broken [[issue](https://github.com/parro-it/awesome-micro-npm-packages/issues/72)]
 - **ivolo/personal-email-domains**: Add hey.com email [[pull request](https://github.com/ivolo/personal-email-domains/pull/7)]
+- **mdn/content**: Help user to unblock merge [[comment](https://github.com/mdn/content/pull/25536)]
